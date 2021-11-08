@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="jp"><head>
+    <meta charset="utf-8">
+    <title>テスト不動産</title>
+    <link rel="stylesheet" href="test.css">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,user-scalable=no">
+
+    <link href="./assets/css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <section id="main-visual">
+        <div class="container">
+            <h2>成長する<span>不動産投資家</span>のプラットホーム</h2>
+            <h1>テスト不動産</h1>
+            <div class="mv-img-wrapper">
+                <img alt="" src="main.png">
+            </div>
+        </div>
+    </section><!-- メインビジュアル -->
+
+    <section id="platform_intro">
+        <div class="container">
+            <div class="intro-area">
+                <h2>最新の情報を提供する<br>プラットフォーム</h2>
+                <p class="lead">
+                    「テスト不動産」は、成長し続ける不動産投資家のみなさまのお役に立つ<br class="br-768-no">
+                    プラットホームを目指して誕生いたしました。<br>
+                    『テスト』は、テスト＝******＝何か文字が入ります、を意味します。<br>
+                    不動産投資は、物件が高いor安い、融資が出やすいor出にくい、など、外部環境に大きく左右されます。<br>
+                    そんな中、所有不動産やキャッシュフローを持続的に増やしていくには、<br class="br-768-no">
+                    不動産投資の原理原則を踏まえたうえで、<br class="br-768-no">
+                    長期戦略と短期戦略をうまくバランスさせていくことが必要となります。
+                </p>
+                <div class="bus-man-wrapper">
+                    <img class="business-man" alt="" src="business-man.png">
+                </div>
+            </div>
+            <div class="about-club">
+                <h3 class="ac-title">当クラブでは、</h3>
+                <p class="ac-title-sub">◯不動産ファイナンス戦略・金融機関情報の提供</p>
+                <p class="ac-title-sub">◯不動産投資家に必要となる専門家・専門業者の紹介</p>
+                <p class="ac-title-sub">◯メール・電話による金融機関対策相談</p>
+                <p class="ac-txt">
+                    という３つの方向性から、不動産投資家のみなさまが成長し続けるためのお手伝いができればと考えています。<br>
+                    会員の方はLINE WORKSの「テスト不動産」に登録いただき、<br>
+                    <span class="ac-txt-line">普段の会員間の交流はLINE WORKSで行います。</span>
+                </p>
+            </div>
+            <div class="line-work">
+                <img alt="" src="line-work.jpg">
+            </div>
+        </div>
+    </section><!-- 最新の情報を提供する<br>プラットフォーム -->
+
+    <section id="services">
+        <h2>不動産ファイナンス戦略・<br>金融機関情報の提供</h2>
+        <div class="container-wide">
+            <div class="service-list">
+                <div class="service-item">
+                    <div class="service-title">不動産<br>ファイナンス戦略</div>
+                    <div class="service-txt">代表の＊＊（へのへの）が、この５年間で５００人以上の不動産投資家の方々と面談し、１，０００社以上の決算書を見てきた中から導き出した不動産ファイナンス戦略について書かせていただきます。</div>
+                </div>
+                <div class="service-item">
+                    <div class="service-title">金融機関<br>インタビュー</div>
+                    <div class="service-txt">代表の＊＊（へのへの）が各金融機関を訪問し、その時々の融資姿勢、融資状況についてインタビューします。</div>
+                </div>
+                <div class="service-item">
+                    <div class="service-title">成功事例<br>紹介</div>
+                    <div class="service-txt">許可をいただいた会員の方の成功事例を紹介いたします。本人からのレポート、本人へのインタビュー、クラブ側でまとめる場合があります。</div>
+                </div>
+            </div>
+        </div>
+        <h2>不動産投資家に必要となる<br>専門家・専門業者の紹介</h2>
+        <div class="container">
+            <p class="expert-txt">当クラブの会員は、すべてのサービスを会員価格（サービスにもよりますが、<br class="br-768-no"><span>通常価格からの５％引きを基準</span>としています）で利用することが出来ます。</p>
+            <div class="expert-service">
+                <div class="svc-es-title">不動産投資家一般向けサービス</div>
+                <div class="svc-es-infos">
+                    <p class="desc">不動産投資家の多くが必要となるサービスを、ワンストップでラインナップ</p>
+                    <ul class="es-list es-list-col-3">
+                        <li><p>会計事務所</p></li>
+                        <li><p>火災保険</p></li>
+                        <li><p>物件情報</p></li>
+                        <li><p>不動産、法人登記</p></li>
+                        <li><p>不動産鑑定</p></li>
+                        <li><p>融資の借換え</p></li>
+                        <li><p>リフォーム</p></li>
+                    </ul>
+                    <p class="etc">などなど</p>
+                </div>
+            </div>
+            <div class="expert-service">
+                <div class="svc-es-title">不動産投資家向けニッチサービス</div>
+                <div class="svc-es-infos">
+                    <p class="desc">そのサービスを必要とする投資家は少数かもしれませんが、<br class="br-768-no">「このサービスがあって本当に助かった！」と言ってもらえるサービスのラインナップです。</p>
+                    <ul class="es-list es-list-col-3">
+                        <li><p>不動産M&amp;A</p></li>
+                        <li><p>スモールM&amp;A</p></li>
+                        <li><p>大規模修繕<br>メンテナンスパック</p></li>
+                        <li><p>相続、事業承継対策</p></li>
+                        <li><p>不動産投資家向けFP</p></li>
+                        <li><p>火災保険申請代行</p></li>
+                        <li><p>見守りサービス</p></li>
+                        <li><p>少額短期保険</p></li>
+                        <li><p>法人登記用事務所</p></li>
+                        <li><p>競売専門不動産会社</p></li>
+                        <li><p>ボロ物件専門不動産会社</p></li>
+                        <li><p>補助金、助成金申請</p></li>
+                    </ul>
+                    <p class="etc">などなど</p>
+                </div>
+            </div>
+            <div class="service-others">
+                <p class="mark">その他</p>
+                <p class="txt">
+                    ●会員同士の交流会を開催予定<br>
+                    ●会員が主催するコミュニティーを立ち上げる予定（例　築古再生コミュニティー、など）
+                </p>
+            </div>
+        </div>
+    </section> <!-- 不動産ファイナンス戦略・金融機関情報の提供 -->
+
+    <section id="open_event">
+        <div class="container">
+            <div class="event-area">
+                <div class="event-mark">
+                    <h2 title="オープン記念！" class="stroke-single">オープン記念！</h2>
+                </div>
+                <div class="event-infos">
+                    <div class="price">初年度会費<span class="digit">33,000</span><span>円</span>(税込)</div>
+                    <div class="kikan">
+                        ２０１９年１１月～２０２０年２末までなら、いつ入会しても２０２１年２月末まで有効
+                    </div>
+                    <div class="desc">
+                        ＊２年目以降は、３，３００円/月（税込）を予定しています。<br>
+                        ＊テスト不動産財務総研のクライアントの皆様には、クライアント割引があります。                            
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> <!-- オープン記念！ -->
+
+    <section id="examples">
+        <h2>活用事例</h2>
+        <div class="container">
+            <div class="example-item">
+                <div class="ei-part-01">
+                    <div class="eip-01-head">
+                        <div class="eiph-wrapper">
+                            <img alt="" src="example-01.png">
+                            <p>テスト不動産<br>Aさんの活用事例</p>
+                        </div>
+                    </div>
+                    <div class="eip-01-body">
+                        <div class="eipb-item">
+                            <p class="eipbi-no">①</p>
+                            <p class="eipbi-txt"><span class="bold">初年度会費33,000円</span>を支払う</p>
+                        </div>
+                        <div class="eipb-item">
+                            <p class="eipbi-no">②</p>
+                            <p class="eipbi-txt">
+                                火災保険申請支援業者を利用する→<span class="bold">火災保険</span><span class="red-notice bold">1,700,000円</span><span class="bold">を受取る。</span><br>
+                                手数料<span class="bold">595,000円</span>のところ、<br>
+                                <span class="red-notice bold">会員割引5% 29,750円割引で565,250円</span>
+                            </p>
+                        </div>
+                        <div class="eipb-item">
+                            <p class="eipbi-no">③</p>
+                            <p class="eipbi-txt">
+                                新設法人を設立する<br>
+                                司法書士費用<span class="bold">285,000円</span>のところ、<br>
+                                <span class="red-notice bold">会員割引5% 14,250円割引で270,750円</span>
+                            </p>
+                        </div>
+                        <div class="eipb-item">
+                            <p class="eipbi-no">④</p>
+                            <p class="eipbi-txt">
+                                分割払の大規模修繕「メンパク」を利用<br>
+                                15年間の修繕費用<span class="bold">12,000,000円</span>のところ、<br>
+                                <span class="red-notice bold">会員価格5% 600,000円割引で11,400,000円</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ei-part-02">
+                    <p class="txt-01"><span class="no">②/③/④</span>の会員割引額<span class="bold">644,000円</span>に対し、初年度会費は<span class="bold red-notice price">33,000</span><span class="bold red-notice">円</span></p>
+                    <p class="txt-02">644,000円 - 33,000円 = <span class="red-notice price">611,000</span><span class="red-notice">円</span>のお得！</p>
+                </div>
+            </div>
+
+            <div class="example-item">
+                <div class="ei-part-01">
+                    <div class="eip-01-head">
+                        <div class="eiph-wrapper">
+                            <img alt="" src="example-02.png">
+                            <p>テスト不動産<br>Bさんの活用事例</p>
+                        </div>
+                    </div>
+                    <div class="eip-01-body">
+                        <div class="eipb-item">
+                            <p class="eipbi-no">①</p>
+                            <p class="eipbi-txt"><span class="bold">初年度会費33,000円</span>を支払う</p>
+                        </div>
+                        <div class="eipb-item">
+                            <p class="eipbi-no">②</p>
+                            <p class="eipbi-txt">
+                                テスト不動産財務会計と顧問契約<br>
+                                顧問料<span class="bold">264,000円/年</span>のところ、<br>
+                                <span class="red-notice bold">会員割引5% 13,200円/年割引で250,800円</span>
+                            </p>
+                        </div>
+                        <div class="eipb-item">
+                            <p class="eipbi-no">③</p>
+                            <p class="eipbi-txt">
+                                新設法人を設立する<br>
+                                司法書士費用<span class="bold">330,000円</span>のところ、<br>
+                                <span class="red-notice bold">会員割引5% 16,500円割引で313,500円</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ei-part-02">
+                    <p class="txt-01"><span class="no">②/③</span>の会員割引額<span class="bold">29,700円</span>に対し、初年度会費は<span class="bold red-notice price">33,000</span><span class="bold red-notice">円</span></p>
+                    <p class="txt-02">33,000円 - 29,700円 = <span class="red-notice price">3,300</span><span class="red-notice">円</span>が実質の年会費！</p>
+                </div>
+            </div>
+        </div>
+    </section> <!-- 活用事例 -->
+
+    <section id="profile">
+        <div class="container">
+			<div class="contact-btn-area">
+<a style="text-decoration: none;" href="contact.html"><div class="contact-btn">
+                申込・お試し内覧はこちらから
+            </div></a>
+				<p class="contact-btn-under">※お試し内覧は、LINE WORKS内を2日間内覧することができます</p>
+			</div>
+            <div class="title-wrapper">
+                <h2>代表プロフィール</h2>
+            </div>
+            <div class="profile-area">
+                <div class="photo">
+                    <img alt="" src="profile.jpg">
+                </div>
+                <div class="infos">
+                    <div class="line name">へのへの　もへじ（へのへの　もへじ）</div>
+                    <div class="line title">得意業務</div>
+                    <div class="line skill">不動産ファイナンス戦略、銀行員が喜ぶ決算書・事業計画書作成</div>
+                    <div class="line title">職歴・経歴</div>
+                    <div class="line career">
+                        <p class="year">1995年</p>
+                        <p class="txt">
+                            地方銀行入行。法人融資営業を中心に活動。<br>
+                            同時に賃貸不動産の借換えに多数取り組む。
+                        </p>
+                    </div>
+                    <div class="line career">
+                        <p class="year">2001年</p>
+                        <p class="txt">
+                            外資系保険会社に転職。１年目からMDRT基準をクリアーする。<br>
+                            同時にクライアントの資金繰りのお手伝いに奔走。
+                        </p>
+                    </div>
+                    <div class="line career">
+                        <p class="year">2008年</p>
+                        <p class="txt">
+                            同社において、営業マネージャーとなる。<br>
+                            メンバーに対するコーチングを軸に、人員増加で全社日本一、<br class="br-768-no">
+                            売上で４年連続部署日本一を達成。
+                        </p>
+                    </div>
+                    <div class="line career">
+                        <p class="year">2013年</p>
+                        <p class="txt">
+                            株式会社***を設立。<br>
+                            これまでの集大成として、財務と実務を繋げることで中小企業の<br class="br-768-no">
+                            ビジョン達成に貢献する財務コーチングを開始。
+                        </p>
+                    </div>
+                    <div class="line career">
+                        <p class="year">2015年</p>
+                        <p class="txt">
+                            東京にて不動産投資家向けの会計事務所を設立。<br>
+                            主にセミナーで集客し、半年間で７０件超のクライアントを獲得。
+                        </p>
+                    </div>
+                    <div class="line career">
+                        <p class="year">2017年</p>
+                        <p class="txt">
+                            不動産投資家向け会計事務所を、「テスト不動産財務総研」として再スタート約100人のオーナー、約130社の法人を抱える。<br class="br-768-no">
+                            現在に至る。                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> <!-- プロフィール -->
+
+    <section id="contact">
+        <div class="container">
+            <div class="contact-infos">
+                <p class="title">テスト不動産財務総研</p>
+                <p class="txt">
+                    000-0000　住所<br>
+                    メール　:::::-zsk.jp<br>
+                    携帯 ***-****-****（へのへの）                     
+                </p>
+            </div>
+        </div>
+    </section> <!-- 連絡先 -->
+
+    <footer>
+        Copyright © テスト不動産財務総研 2019 All Rights Reserved.
+    </footer>
+
+</body></html>
